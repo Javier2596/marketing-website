@@ -23,6 +23,6 @@ https://css-tricks.com/precedence-css-order-css-matters/
 
 ## License
 
-MIT License
+Please refer to the license in the Repo.
 
 
