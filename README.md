@@ -1,8 +1,8 @@
-# git-challenge-1
+# Marketing Website
 
 ## Description
 
-As a marketing agency, I wanted a codebase that would follow accessibility standards. That way my own site is optimized for search engines.
+As a marketing agency, I wanted a codebase that would follow accessibility standards. That way my own site is optimized for search engines. This assignment served as an introduction to web development, and working with github. It involved editing html and css in order to make the website functional and more accesible.
 
 ## Installation
 
@@ -10,11 +10,9 @@ I started with creating a new repository for this challenge on github. using git
 
 ## Usage
 
- The webpage meets accessibility standards, when I viewed the source code, I found semantic HTML elements. After viewing the structure of the HTML elements, I found that the elements follow a logical structure independent of styling and positioning. When I viewed the icon and image elements, I found accessible alt attributes. When viewing the heading attributes I found they fell in sequential order. When I viewed the title element I made a concise, descriptive title; the title of the html has been changed to "Horiseon homepage". The websites' top search links now function as intended, I CSS of has been reduced so there are no repetitive elements. The HTML has also been modified to flow correctly with the changes of the CSS. 
+The webpage meets accessibility standards, when I viewed the source code, I found semantic HTML elements. After viewing the structure of the HTML elements, I found that the elements follow a logical structure independent of styling and positioning. When I viewed the icon and image elements, I found accessible alt attributes. When viewing the heading attributes I found they fell in sequential order. When I viewed the title element I made a concise, descriptive title; the title of the html has been changed to "Horiseon homepage". The websites' top search links now function as intended, I CSS of has been reduced so there are no repetitive elements. The HTML has also been modified to flow correctly with the changes of the CSS. 
 
 ## Credits
-
-Class repository - weekly challenge
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 https://github.com/microsoft/vscode/blob/main/README.md 
