@@ -12,6 +12,10 @@ I started with creating a new repository for this challenge on github. using git
 
 The webpage meets accessibility standards, when I viewed the source code, I found semantic HTML elements. After viewing the structure of the HTML elements, I found that the elements follow a logical structure independent of styling and positioning. When I viewed the icon and image elements, I found accessible alt attributes. When viewing the heading attributes I found they fell in sequential order. When I viewed the title element I made a concise, descriptive title; the title of the html has been changed to "Horiseon homepage". The websites' top search links now function as intended, I CSS of has been reduced so there are no repetitive elements. The HTML has also been modified to flow correctly with the changes of the CSS. 
 
+## Link
+  
+https://javier2596.github.io/marketing-website/
+
 ## Credits
 
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
